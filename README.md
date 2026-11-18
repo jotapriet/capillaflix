@@ -72,4 +72,3 @@ No hay servicios de reproducción en segundo plano: al salir de la app se pausa 
 ## Validación
 
 Compilaciones debug y release, cuatro pruebas unitarias y Android Lint completados. Lint presenta advertencias de versiones disponibles y de una comprobación de terceros incompatible con AGP, sin errores bloqueantes. En el emulador Android 37 instalado, configurado a 16:9, se verificaron arranque, carga real de miniaturas y vídeos, navegación con D-Pad, reproducción de Radio del Cofrade y regreso con restauración del foco. La prueba de 7TV recibió vídeo H.264, pero el decodificador `c2.goldfish.h264.decoder` del emulador falló; no se ha acreditado reproducción de televisión en hardware físico. El reproductor permite decodificadores alternativos si falla la inicialización del principal.
-

@@ -1,0 +1,8 @@
+{
+  "versionCode": 3,
+  "versionName": "1.2",
+  "apkUrl": "https://github.com/jotapriet/capillaflix/releases/download/v1.2/CapillaFlix.apk",
+  "sha256": "322787c7c1b880bb84930b8b69640a240db548c5ff20c7abdea1da38af7d5d7b",
+  "minSdk": 26,
+  "notes": "Actualizaciones desde GitHub, cambio de canal con P+/P− y mejoras de reproducción."
+}

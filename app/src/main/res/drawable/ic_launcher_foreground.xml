@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+<group android:scaleX="0.75" android:scaleY="0.75" android:pivotX="54" android:pivotY="54">
+    <path android:fillColor="#00000000" android:pathData="M54,28 C44,23 60,19 52,13" android:strokeColor="#D9B777" android:strokeWidth="2.4" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <path android:fillColor="#00000000" android:pathData="M62,31 C54,25 69,22 62,17" android:strokeColor="#D9B777" android:strokeWidth="1.6" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <path android:fillColor="#00000000" android:pathData="M49,37 C49,34 51,32 54,32 C57,32 59,34 59,37" android:strokeColor="#D9B777" android:strokeWidth="2.2" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <path android:fillColor="#00000000" android:pathData="M49,38 L37,65 M54,39 L54,52 M59,38 L71,65" android:strokeColor="#D9B777" android:strokeWidth="1.8" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <path android:fillColor="#00000000" android:pathData="M54,51 L54,55" android:strokeColor="#D9B777" android:strokeWidth="2.4" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <path android:fillColor="#D9B777" android:pathData="M42,62 C44,56 48,54 54,54 C60,54 64,56 66,62 Z" />
+    <path android:fillColor="#00000000" android:pathData="M49,59 L49,61 M54,58 L54,61 M59,59 L59,61" android:strokeColor="#101421" android:strokeWidth="1.4" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <path android:fillColor="#00000000" android:pathData="M36,66 L72,66" android:strokeColor="#D9B777" android:strokeWidth="2.8" android:strokeLineCap="round" android:strokeLineJoin="round" />
+    <path android:fillColor="#D9B777" android:pathData="M39,70 L69,70 C67,78 62,82 54,82 C46,82 41,78 39,70 Z" />
+    <path android:fillColor="#D9B777" android:pathData="M50,82 L50,85 L46,88 L62,88 L58,85 L58,82 Z" />
+</group>
+</vector>
